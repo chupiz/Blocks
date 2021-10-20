@@ -1,0 +1,19 @@
+.box {
+    position: absolute;
+    width: 640px;
+    height: 380px;
+    background-image: linear-gradient(to left, #FF0D6A, #0500FF, #00FFE0);
+    filter: blur(150px);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50% , -50%);
+    }
+
+.box h1 
+  {
+position: relative;
+width: 100px;
+height: 23px;
+color: #1E0E62;
+font-family: 'Courier New', Courier, monospace;
+  }    
